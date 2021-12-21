@@ -7,8 +7,6 @@
 ### Frameworks
 - Spring boot v4.0.0
 
-[![Build Status]()]()
-
 ## Installation
 
 #### Prerequisites
