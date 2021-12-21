@@ -41,22 +41,3 @@ You must start backend server on a different terminal (bash, zsh, etc) tab or wi
 ```zsh
 npm run start:back
 ```
-
-Runs on `localhost:8080`
-
-## Frontend Information
-
-### Frameworks
-- React v16.13.1
-
-In the project directory, you can run:
-
-#### Start Frontend Development Server
-```zsh
-./mvnw spring-boot:run
-```
-
-#### Run tests
-```zsh
-./mvnw spring-boot:run
-```
